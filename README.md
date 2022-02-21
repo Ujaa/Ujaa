@@ -1,5 +1,5 @@
 
-## 😏 Hi! I’m Yujin.
+## 😏 Hi! My name is Yujin.
 _I enjoy challenging new things and growing from learning._
 - Student at Sookmyung Women's University
 - IT Engineering 19
