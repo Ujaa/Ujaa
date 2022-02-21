@@ -26,7 +26,7 @@ https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoCol
 
 ### 💬 Communication
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Zeplin](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[Zeplin]
 
 ### 👽 ETC
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
