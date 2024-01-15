@@ -6,9 +6,9 @@ _I enjoy challenging new things and growing from learning._
 - yujinyll9148@gmail.com
 
 ### 🖋 Skills
-[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,vue,py,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,javascript,vue,py,tensorflow)](https://skillicons.dev)
 
 ### 👽 ETC
-[![My Skills](https://skillicons.dev/icons?i=ae,ai,blender,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,figma,ae,ai)](https://skillicons.dev)
 
 ![Ujaa's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Ujaa&show_icons=true&count_private=true&line_height=25&theme=tokyonight&hide=stars)
