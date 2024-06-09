@@ -6,7 +6,7 @@ _I enjoy challenging new things and growing from learning._
 - yujinyll9148@gmail.com
 
 ### 🖋 Skills
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,javascript,vue,py,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,next,dart,flutter,firebase,html,css,javascript,vue,py)](https://skillicons.dev)
 
 ### 👽 ETC
 [![My Skills](https://skillicons.dev/icons?i=blender,figma,ae,ai)](https://skillicons.dev)
