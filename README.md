@@ -3,7 +3,7 @@
 _I enjoy challenging new things and growing from learning._
 
 ### Experience
-- 💻 Naver Boostcamp Web·Mobile 9th (2024.06 ~ )
+- 💻 Naver Boostcamp Web·Mobile 9th (2024.06 ~ 2024.12)
 - 🎓 Sookmyung Women's University, Bachelor's in IT Engineering, Minor in Visual and Media Design (2019.03 ~ 2024.08)
 
 <p align="center">
