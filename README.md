@@ -1,13 +1,12 @@
 
-## 😄 Hi! My name is Yujin.
-_I enjoy challenging new things and growing from learning._
+## 새로운 도전을 즐기고, <br/>배움을 통해 성장하는 것을 좋아하는 이유진입니다.
 
-### Education
-- 🎓 Sookmyung Women's University, Bachelor's in IT Engineering, Minor in Visual and Media Design (2019.03 ~ 2024.08)
+### 🎓 학력
+- 숙명여자대학교 IT공학전공 학사, 시각영상디자인학과 부전공 (2019.03 ~ 2024.08)
 
-### Experience
-- 💻 Naver Boostcamp Web·Mobile 9th (2024.06 ~ 2024.12)
-- 📘 Undergraduate Researcher at Sookmyung Women's University Mint Lab (2021.09 ~ 2024.06)
+### 👩‍💻 경험
+- 네이버 부스트캠프 웹·모바일 9기 (2024.06 ~ 2024.12)
+- 숙명여자대학교 Mint Lab 학부 연구생 (2021.09 ~ 2024.06)
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,next,dart,flutter,firebase,html,css,javascript,vue,py,figma,blender)](https://skillicons.dev)
