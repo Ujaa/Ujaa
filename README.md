@@ -1,10 +1,10 @@
-# Enjoys taking on new challenges and growing through learning
+## Enjoys taking on new challenges and growing through learning
 
-## 🎓 Education
+### 🎓 Education
 
 - B.S. in IT Engineering, Sookmyung Women’s University, Minor in Visual Communication Design (March 2019 – August 2024)
 
-## 👩‍💻 Experience
+### 👩‍💻 Experience
 
 - Naver Boostcamp (Web & Mobile Track, Cohort 9) (June 2024 – December 2024)
 - Undergraduate Research Assistant, Mint Lab, Sookmyung Women’s University (September 2021 – June 2024)
